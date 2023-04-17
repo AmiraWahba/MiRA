@@ -1,1 +1,3 @@
 # MiRA
+
+## Project notes
